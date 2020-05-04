@@ -1,0 +1,57 @@
+/*home css*/
+h1{
+    
+    font-size:80px;
+    color:#8D3000;
+
+    
+}
+h5{
+  margin-left:100px; 
+   position:absolute;
+    top:120px;   
+}
+//.sub{
+   
+}
+
+.menu-item{
+    text-align:center;
+    text-transform:uppercase;
+    background-color:#E37816;
+    color:#7C2A3A;
+    padding:10px 0;
+}
+
+.menu-item:hover{
+    background-color:#DD7C75;
+    color:#D9211B;
+}
+
+#searchbox{
+    margin-top:30px;
+    text-align:right;
+}
+
+#Banner{
+    margin-top:10px;
+
+}
+
+#course h3{
+    text-align:center;
+    text-transform:uppercase;
+    padding:5px 0;
+    border-bottom:4px solid #034F39;
+}
+
+footer{
+    text-align:center;
+    background-color:#E37816;
+    color:#ffffff;
+    padding:20px 0;
+}
+
+footer ul{
+    list-style-type:none;
+}
