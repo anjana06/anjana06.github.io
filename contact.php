@@ -1,7 +1,7 @@
 <?php
-$name=$_POST['t'];
-$email=$_POST['email'];
-$msg=$_POST['message'];
+$name=$_REQUEST['t'];
+$email=$_REQUEST['email'];
+$msg=$_REQUEST['message'];
 
 if(empty($name)|| empty($email) || empty(message))
 {
